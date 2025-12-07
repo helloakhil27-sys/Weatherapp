@@ -29,8 +29,8 @@ except Exception:
     PLYER_GPS_AVAILABLE = False
 
 # ----- CONFIG -----
-OWM_API_KEY  = "e71fb0ca6a834cd80142f4fdcb589e3f"
-IQAIR_API_KEY = "7140ea17-5768-4bc0-b63d-27350900ce4c"     # IQAir / AirVisual API key (for aqius)
+OWM_API_KEY  = ""
+IQAIR_API_KEY = ""     # IQAir / AirVisual API key (for aqius)
 UPDATE_INTERVAL = 5 * 60  # seconds
 
 # sensible default desktop window size (won't force mobile)
