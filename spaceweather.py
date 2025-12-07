@@ -71,7 +71,7 @@ FloatLayout:
                 orientation: 'vertical'
                 size_hint_x: 0.6
                 Label:
-                    text: "SPACE WEATHER"
+                    text: "ATLAS"
                     bold: True
                     font_size: '18sp'
                     color: (1,1,1,0.9)
