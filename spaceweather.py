@@ -89,7 +89,7 @@ FloatLayout:
                 spacing: dp(6)
                 TextInput:
                     id: city_input
-                    hint_text: "Enter city (e.g. Delhi)"
+                    hint_text: "    Enter city    "
                     multiline: False
                     size_hint_x: 0.7
                     background_normal: ''
